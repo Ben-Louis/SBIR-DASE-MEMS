@@ -1,0 +1,11 @@
+*~
+*#
+*.pyc
+*.iml
+*.xml
+datasets/data
+*__pychach*
+logs
+notebooks
+*old
+*old/*
